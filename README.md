@@ -1,6 +1,6 @@
 # Description
 
-A calculator that converts any currency value into another.
+This calculator converts any currency value into another. The project was done a year ago.
 
 **Techstack**: HTML, CSS and vanilla JavaScript.
 
